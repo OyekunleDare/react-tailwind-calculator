@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-tailwind-quiz-app/static/css/main.5aa3b80d.css",
-    "main.js": "/react-tailwind-quiz-app/static/js/main.111ae077.js",
-    "static/js/787.eac42d72.chunk.js": "/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js",
-    "static/media/red.jpg": "/react-tailwind-quiz-app/static/media/red.722f14fa1252ad826abb.jpg",
-    "static/media/blue.jpg": "/react-tailwind-quiz-app/static/media/blue.701ae65e23510f8d94f4.jpg",
-    "index.html": "/react-tailwind-quiz-app/index.html",
-    "main.5aa3b80d.css.map": "/react-tailwind-quiz-app/static/css/main.5aa3b80d.css.map",
-    "main.111ae077.js.map": "/react-tailwind-quiz-app/static/js/main.111ae077.js.map",
-    "787.eac42d72.chunk.js.map": "/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js.map"
+    "main.css": "/react-tailwind-calculator/static/css/main.822b8182.css",
+    "main.js": "/react-tailwind-calculator/static/js/main.f5c080a8.js",
+    "static/js/787.eac42d72.chunk.js": "/react-tailwind-calculator/static/js/787.eac42d72.chunk.js",
+    "static/media/red.jpg": "/react-tailwind-calculator/static/media/red.722f14fa1252ad826abb.jpg",
+    "static/media/blue.jpg": "/react-tailwind-calculator/static/media/blue.701ae65e23510f8d94f4.jpg",
+    "index.html": "/react-tailwind-calculator/index.html",
+    "main.822b8182.css.map": "/react-tailwind-calculator/static/css/main.822b8182.css.map",
+    "main.f5c080a8.js.map": "/react-tailwind-calculator/static/js/main.f5c080a8.js.map",
+    "787.eac42d72.chunk.js.map": "/react-tailwind-calculator/static/js/787.eac42d72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aa3b80d.css",
-    "static/js/main.111ae077.js"
+    "static/css/main.822b8182.css",
+    "static/js/main.f5c080a8.js"
   ]
 }
